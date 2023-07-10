@@ -23,8 +23,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   An introductory course meant to provide the used with some basic astrophysics and bayesian statistics knowledge.
   This course was originally designed for Ast 5731 at the University of Minnesota"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/intro-bayes-astro" # the subpath of your site, e.g. /blog
+url: "ASTROBATES-UMN.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  notjamesMaxwell
 
 # Build settings
